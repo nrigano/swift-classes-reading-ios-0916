@@ -91,3 +91,6 @@ planetInfoObject(planet: mars2)
 
 earth2.planetInfo()
 mars2.planetInfo()
+
+
+//I need more practice to understand this.
